@@ -1,0 +1,30 @@
+# Runtime / environment
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs and state
+auth_state.json
+signal_log.jsonl
+trade_log.jsonl
+seen_ids.json
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.sqlite3
+.DS_Store
