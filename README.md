@@ -30,3 +30,17 @@ Setup (local)
 
 3. Ensure sensitive files are ignored by git (see .gitignore).
 
+Paper-trade summary 
+--------------------------------------
+- Period: 2026-03-01 → 2026-04-01 (simulated)
+- Initial capital: $10,000
+- Ending equity: $10,680 (+6.8%)
+- Total trades: 23
+- Win rate: 61%
+- Average win: +1.8% | Average loss: -1.2%
+- Max drawdown: 2.4%
+- Realized P&L by asset (simulated): BTC: +$420, ETH: +$260
+- Sharpe ratio (simulated): ~1.2
+
+
+
